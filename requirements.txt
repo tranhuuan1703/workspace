@@ -1,0 +1,7 @@
+pytest
+pymongo
+flask
+tensorflow
+json
+matplotlib
+FastAPI
